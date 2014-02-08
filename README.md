@@ -21,3 +21,5 @@ INSTALLATION
 
 Now you will find the Sass build system in "Tools" -> "Build Systems..." -> "Sass" or "Sass Minify".
 Enjoy!
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sniperwolf/sublime-text-2-sass-build-system-for-windows/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
